@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+#Redis folder
+redisbin64/*
+
 # C extensions
 *.so
 
